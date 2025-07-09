@@ -14,14 +14,14 @@ This lab demonstrates how to manage **AWS Identity and Access Management (IAM)**
 ---
 
 ##  Project Structure
-
+```
 IAM/
 ├── main.tf # Main Terraform configuration
 ├── variables.tf # Input variables
 ├── outputs.tf # Output values
 ├── terraform.tfvars # Variable definitions
 
-
+```
 ---
 
 ##  Prerequisites
